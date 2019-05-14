@@ -1,0 +1,37 @@
+[
+	{
+		"path": "$ROOTPATH$\\src\\rtmp\\rtmp_connect.go",
+		"bookmarks": [
+			{
+				"line": 139,
+				"column": 12,
+				"label": "处理消息数据"
+			}
+		]
+	},
+	{
+		"path": "$ROOTPATH$\\src\\rtmp\\rtmp_message.go",
+		"bookmarks": [
+			{
+				"line": 157,
+				"column": 33,
+				"label": ""
+			},
+			{
+				"line": 290,
+				"column": 3,
+				"label": ""
+			},
+			{
+				"line": 442,
+				"column": 56,
+				"label": ""
+			},
+			{
+				"line": 533,
+				"column": 79,
+				"label": ""
+			}
+		]
+	}
+]
